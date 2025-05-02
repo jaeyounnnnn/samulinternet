@@ -71,3 +71,4 @@
 + EX_3_24 call/apply 메서드의 활용 3-3) ES6의 펼치기 연산자 활용
 + EX_3_25 bind 메서드 this 지정과 부분 적용 함수 구현
 + EX_3_26 bind 메서드 name 프로퍼티 
++ EX_3_27 내부 함수에 this 전달 bind/call
