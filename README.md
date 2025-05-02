@@ -65,3 +65,4 @@
 + EX_3_18 call/apply 메서드의 활용 1-2) arguments, NodeList에 배열 메서드를 적용
 + EX_3_19 call/apply 메서드의 활용 1-3) 문자열에 배열 메서드 적용 예시
 + EX_3_20 call/apply 메서드의 활용 1-4) ES6의 Array.from 메서드 
++ EX_3_21 call/apply 메서드의 활용 2) 생성자 내부에서 다른 생성자를 호출 
