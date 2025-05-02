@@ -75,3 +75,4 @@
 + EX_3_28 bind 메서드 배부함수에 this 전달  
 + EX_3_29 화살표 함수 내부에서의 this 
 + EX_3_30 thisArg를 받는 경우 forEach 메서드
++ EX_3_31 프로퍼티
