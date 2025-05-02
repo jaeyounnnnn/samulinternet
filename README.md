@@ -62,3 +62,4 @@
 + EX_3_15 call 메서드(2) 
 + EX_3_16 apply 메서드
 + EX_3_17 call/apply 메서드의 활용 1-1) 유사배열 객체에 배열 메서드를 적용
++ EX_3_18 call/apply 메서드의 활용 1-2) arguments, NodeList에 배열 메서드를 적용
