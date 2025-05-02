@@ -68,3 +68,4 @@
 + EX_3_21 call/apply 메서드의 활용 2) 생성자 내부에서 다른 생성자를 호출 
 + EX_3_22 call/apply 메서드의 활용 3-1) 최대/최솟값을 구하는 코드를 직접 구현
 + EX_3_23 call/apply 메서드의 활용 3-2) 여러 인수를 받는 메서드(Math.max/Math.min)에 apply를 적용
++ EX_3_24 call/apply 메서드의 활용 3-3) ES6의 펼치기 연산자 활용
