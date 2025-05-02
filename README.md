@@ -22,3 +22,4 @@
 + EX_1_19 자동으로 undefined를 부여하는 경우  
 + EX_1_20 undefined와 배열
 + EX_1_21 빈 요소와 배열의 순회
++ EX_1_22 undefined와 null의 비교
