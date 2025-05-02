@@ -73,3 +73,4 @@
 + EX_3_26 bind 메서드 name 프로퍼티 
 + EX_3_27 내부 함수에 this 전달 bind/call
 + EX_3_28 bind 메서드 배부함수에 this 전달  
++ EX_3_29 화살표 함수 내부에서의 this 
