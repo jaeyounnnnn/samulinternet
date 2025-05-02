@@ -1,4 +1,4 @@
 # Homework 
 
-#### CH1
+## CH1
 + EX1.1 변수설정 
