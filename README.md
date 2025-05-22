@@ -96,3 +96,4 @@
 + EX_4_14 비동기 작업의 동기적 표현(1) - Promise(1)
 + EX_4_15 비동기 작업의 동기적 표현(2) - Promise(2)
 + EX_4_16 비동기 작업의 동기적 표현(3) - Generator
++ EX_4_17 비동기 작업의 동기적 표현(4) - Promise + Async/await
