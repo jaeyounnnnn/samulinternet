@@ -83,3 +83,4 @@
 + EX_4_1 콜백함수 예제 (1-1) setInterval
 + EX_4_2 콜백함수 예제 (1-2) setInterval
 + EX_4_3 콜백함수 예제 (2-1) Array.prototype.map
++ EX_4_4 콜백 함수 예제 (2-2) Array.prototype.map - 인자의 순서를 임의로 바꾸어 사용한 경우
