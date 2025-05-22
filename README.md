@@ -86,3 +86,4 @@
 + EX_4_4 콜백 함수 예제 (2-2) Array.prototype.map - 인자의 순서를 임의로 바꾸어 사용한 경우
 + EX_4_5 콜백 함수 예제 (2-3) Array.prototype.map - 구현
 + EX_4_6 콜백 함수 내부에서의 this
++ EX_4_7 메서드를 콜백 함수로 전달한 경우
