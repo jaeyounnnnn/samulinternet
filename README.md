@@ -77,3 +77,8 @@
   + EX_3_29 화살표 함수 내부에서의 this 
   + EX_3_30 thisArg를 받는 경우 forEach 메서드
   + EX_3_31 프로퍼티
+
+***
+### CH4
++ EX_4_1  콜백함수 setInterval (1)
++ EX_4_2  콜백함수 setInterval (2)
