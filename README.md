@@ -80,5 +80,6 @@
 
 ***
 ### CH4
-+ EX_4_1  콜백함수 setInterval (1)
-+ EX_4_2  콜백함수 setInterval (2)
++ EX_4_1 콜백함수 예제 (1-1) setInterval
++ EX_4_2 콜백함수 예제 (1-2) setInterval
++ EX_4_3 콜백함수 예제 (2-1) Array.prototype.map
