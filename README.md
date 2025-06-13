@@ -125,3 +125,4 @@
 ***
 ### CH6
 + EX_6_1 Person.prototype
++ EX_6_2 prototype과 __proto__
