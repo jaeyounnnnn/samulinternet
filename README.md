@@ -128,3 +128,4 @@
 + EX_6_2 prototype과 __proto__
 + EX_6_3 constructor 프로퍼티
 + EX_6_4 constructor 변경
++ EX_6_5 다양한 constructor 접근 방법
