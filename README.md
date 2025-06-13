@@ -142,3 +142,4 @@
 + EX_7_3 length 프로퍼티를 삭제한 경우
 + EX_7_4 요소가 있는 배열을 prototype에 매칭한 경우
 + EX_7_5 Rectangle, Square 클래스
++ EX_7_6 Square 클래스 변형
