@@ -144,3 +144,5 @@
 + EX_7_5 Rectangle, Square 클래스
 + EX_7_6 Square 클래스 변형
 + EX_7_7 Rectangle을 상속하는 Square 클래스
++ EX_7_8 클래스 상속 및 추상화 방법(1) - 인스턴스 생성 후 프로퍼티 제거
+
