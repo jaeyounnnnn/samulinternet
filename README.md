@@ -127,3 +127,4 @@
 + EX_6_1 Person.prototype
 + EX_6_2 prototype과 __proto__
 + EX_6_3 constructor 프로퍼티
++ EX_6_4 constructor 변경
