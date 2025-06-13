@@ -141,3 +141,4 @@
 + EX_7_2 6-2-4절의 Grade 생성자 함수 및 인스턴스
 + EX_7_3 length 프로퍼티를 삭제한 경우
 + EX_7_4 요소가 있는 배열을 prototype에 매칭한 경우
++ EX_7_5 Rectangle, Square 클래스
