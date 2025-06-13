@@ -143,3 +143,4 @@
 + EX_7_4 요소가 있는 배열을 prototype에 매칭한 경우
 + EX_7_5 Rectangle, Square 클래스
 + EX_7_6 Square 클래스 변형
++ EX_7_7 Rectangle을 상속하는 Square 클래스
